@@ -1,5 +1,3 @@
-# Écrivez votre code ici !
-
 # Création de la liste Fruits
 fruits = ["pomme", "banane", "orange"]
 

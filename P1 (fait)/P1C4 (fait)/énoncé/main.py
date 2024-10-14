@@ -1,5 +1,3 @@
-# Écrivez votre code ici !
-
 # Création de la variable nom
 nom = "Ari"
 

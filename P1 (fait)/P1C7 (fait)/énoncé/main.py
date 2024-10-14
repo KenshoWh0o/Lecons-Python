@@ -1,5 +1,3 @@
-# Écrivez votre code ici !
-
 # Création d'un dictionnaire
 fruits = {
     "pomme" : "rouge", 

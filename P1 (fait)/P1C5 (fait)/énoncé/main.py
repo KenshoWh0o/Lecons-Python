@@ -1,5 +1,3 @@
-# Écrivez votre code ici 
-
 # Définition des variables
 nom = "Ari"
 age = 17
